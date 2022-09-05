@@ -1,4 +1,4 @@
-<img src="banner.gif"  width="200px" align="right" />
+<img src="banner.gif" width="200px" align="right" />
 
 # Olá, Bem-vindo(a) || Fique a vontade🤍
 Desenvolvedora Web Front-end | Boa em HTML e CSS | Aprendendo JavaScript 
@@ -11,7 +11,7 @@ tenho o objetivo de me tornar Full Stack
     <img src="https://img.shields.io/badge/-Portf%C3%B3lio-indigo?style=for-the-badge&logoColor=white" alt="Portfólio Badge"/>
 </div>
 
-   <img src="minibanner.gif" width = "120px"  align="right" />
+   <img src="" width = "120px"  align="right" />
    
 ---
   
