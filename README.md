@@ -18,7 +18,7 @@ tenho o objetivo de me tornar Full Stack
 - ❤ Objetivo: Me tornar Full Stack
 - 👩‍💻 Aprendendo JavaScript, Angular
 - 📘 Aprendizado no freeCodeCamp e Alura
- <img src="minibanner.gif" width = "130px" height="120px"  align="right" />&nbsp;
+ <img src="minibanner.gif" width = "110px"  align="right" />&nbsp;
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
