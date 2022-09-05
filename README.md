@@ -1,6 +1,8 @@
-<img src="banner.gif" width="200px" align="right" />
+<img src="code.gif" width="400px" align="right" />
 
-# Olá, Bem-vindo(a) || Fique a vontade🤍
+
+
+# Seja Bem-vindo(a) || Fique a vontade🤍
 Desenvolvedora Web Front-end | Boa em HTML e CSS | Aprendendo JavaScript 
 tenho o objetivo de me tornar Full Stack 
 
@@ -11,21 +13,21 @@ tenho o objetivo de me tornar Full Stack
     <img src="https://img.shields.io/badge/-Portf%C3%B3lio-indigo?style=for-the-badge&logoColor=white" alt="Portfólio Badge"/>
 </div>
 
-   <img src="" width = "120px"  align="right" />
-   
 ---
-  
+
 - ❤ Objetivo: Me tornar Full Stack
 - 👩‍💻 Aprendendo JavaScript, Angular
 - 📘 Aprendizado no freeCodeCamp e Alura
+ <img src="minibanner.gif" width = "130px" height="120px"  align="right" />&nbsp;
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40""/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angularjs" alt="Angular" width="40" height="40"/>&nbsp;
-
 </div>
+
+
 
 ---
 
