@@ -10,7 +10,9 @@ tenho o objetivo de me tornar Full Stack
   <a href = "https://www.linkedin.com/in/isabela-de-oliveira-athayde-41730a24b/e">
     <img src="https://img.shields.io/badge/LinkedIn-171e75?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://isabela-portfolio.netlify.app">
     <img src="https://img.shields.io/badge/-Portf%C3%B3lio-indigo?style=for-the-badge&logoColor=white" alt="Portfólio Badge"/>
+   </a>
 </div>
 
 ---
