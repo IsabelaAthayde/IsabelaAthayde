@@ -3,7 +3,7 @@
 
 
 # Seja Bem-vindo(a) || Fique a vontade🤍
-Desenvolvedora Web Front-end | JavaScript HTML e CSS |
+Desenvolvedora Web Front-end | ReactJs, Nodejs, JavaScript HTML e CSS |
 tenho o objetivo de me tornar Full Stack 
 
 <div id="badges">
