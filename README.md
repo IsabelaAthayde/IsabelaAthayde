@@ -3,8 +3,7 @@
 
 
 # Seja Bem-vindo(a) || Fique a vontade🤍
-Desenvolvedora Web Front-end | ReactJs, Nodejs, JavaScript HTML e CSS |
-tenho o objetivo de me tornar Full Stack 
+Desenvolvedora Web Front-end | ReactJs, Nodejs, JavaScript, Python, Kotlin|
 
 <div id="badges">
   <a href = "https://www.linkedin.com/in/isabela-de-oliveira-athayde-41730a24b/e">
@@ -17,7 +16,6 @@ tenho o objetivo de me tornar Full Stack
 
 ---
 
-- ❤ Objetivo: Me tornar Full Stack
 - 👩‍💻 Aprendendo JavaScript, Angular
 - 📘 Aprendizado no freeCodeCamp, RocketSeat e Udemy
  <img src="minibanner.gif" width = "110px" align="right"/>&nbsp;
