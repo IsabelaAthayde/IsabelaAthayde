@@ -16,15 +16,18 @@ Desenvolvedora Web Front-end | ReactJs, Nodejs, JavaScript, Python, Kotlin|
 
 ---
 
-- 👩‍💻 Aprendendo JavaScript, Angular
-- 📘 Aprendizado no freeCodeCamp, RocketSeat e Udemy
+- 👩‍💻 Aprendendo Python, Kotlin
+- 📘 Aprendizado no freeCodeCamp, RocketSeat, Udemy e Senac
  <img src="minibanner.gif" width = "110px" align="right"/>&nbsp;
 
 <div>
+ 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40""/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angularjs" alt="Angular" width="40" height="40"/>&nbsp;
 </div>
 
 
