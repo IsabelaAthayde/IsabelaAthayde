@@ -16,12 +16,11 @@ Desenvolvedora Web Front-end | ReactJs, Nodejs, JavaScript, Python, Kotlin|
 
 ---
 
-- 👩‍💻 Aprendendo Python, Kotlin
-- 📘 Aprendizado no freeCodeCamp, RocketSeat, Udemy e Senac
  <img src="minibanner.gif" width = "110px" align="right"/>&nbsp;
 
 <div>
- 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
