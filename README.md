@@ -3,7 +3,7 @@
 
 
 # Seja Bem-vindo(a) || Fique a vontade🤍
-Desenvolvedora Web Front-end | ReactJs, Nodejs, JavaScript, Python, Kotlin|
+Desenvolvedora Web FullStack e Analista de Dados | Django, Python, C, ReactJs, JavaScript, etc |
 
 <div id="badges">
   <a href = "https://www.linkedin.com/in/isabela-de-oliveira-athayde-41730a24b/e">
